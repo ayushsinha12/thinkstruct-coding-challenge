@@ -1,5 +1,8 @@
 # Thinkstruct Patent Search (Backend Project)
 
+## Demo Link
+https://www.youtube.com/watch?v=RADhznR0PSg&ab_channel=AyushSinha
+
 ## Problem Statement (what I chose to solve)
 A fast, offline search tool over 2024–present vehicle patent application JSON files that:
 1) accepts a natural-language query,
